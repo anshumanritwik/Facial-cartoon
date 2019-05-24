@@ -1,6 +1,11 @@
 # Facial-cartoon using OpenCv and Scikit learn
 
+
+database used - http://www-prima.inrialpes.fr/perso/Gourier/Faces/HPDatabase.html
+
+
 This project is based upon generation of facial cartoons from base image and adding any animated background to the image.
+
 
 The facial cartooning pipeline can be broken down into three parts.
 
