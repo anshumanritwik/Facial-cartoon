@@ -1,4 +1,9 @@
-# Facial-cartoon
+# Facial-cartoon using OpenCv and Scikit learn
+
+#### Cartoon using segmentation - cartoon_bysegmentation.ipynb
+#### Cartoon using mask generation - maskgenerated_facialcartoon.ipynb
+#### face detection using haarcascade - face detection.ipynb
+#### Animation (snowfall) - swiping movement.ipynb
 
 This project is based upon generation of facial cartoons from base image and adding any animated background to the image.
 
