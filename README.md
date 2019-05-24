@@ -1,13 +1,9 @@
 # Facial-cartoon using OpenCv and Scikit learn
 
-#### Cartoon using segmentation - cartoon_bysegmentation.ipynb
-#### Cartoon using mask generation - maskgenerated_facialcartoon.ipynb
-#### face detection using haarcascade - face detection.ipynb
-#### Animation (snowfall) - swiping movement.ipynb
-
 This project is based upon generation of facial cartoons from base image and adding any animated background to the image.
 
 The facial cartooning pipeline can be broken down into three parts.
+
 ## 1. Image resizing
 
 * Depending upon the source of the image, the image size will vary which affects the final image in terms of dimensions. To prevent this, the input image(s) are subjected to resizing using a fixed height and a width proportional to the width.
@@ -43,3 +39,12 @@ The facial cartooning pipeline can be broken down into three parts.
 
 * These sprites serve as the reel for the animations.
 
+
+
+#### Cartoon using segmentation - cartoon_bysegmentation.ipynb
+
+#### Cartoon using mask generation - maskgenerated_facialcartoon.ipynb
+
+#### face detection using haarcascade - face detection.ipynb
+
+#### Animation (snowfall) - swiping movement.ipynb
